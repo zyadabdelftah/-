@@ -1,5 +1,4 @@
- html>
-
+<html>
 <head>
     <style>
         button {
