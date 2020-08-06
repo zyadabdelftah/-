@@ -1,0 +1,88 @@
+body{
+
+
+background-color:  deepskyblue;
+
+
+}
+
+
+h1{
+
+
+background-color: white;
+
+
+text-align:center;
+
+
+}
+
+
+ul{
+
+
+list-style-type:none;
+
+
+margin:0;
+
+
+padding:0;
+
+
+overflow:hidden;
+
+
+background-color:  white;
+
+
+}
+
+
+li{
+
+
+float:left;
+
+
+}
+
+
+li a{
+
+
+display:block;
+
+
+color: teal;
+
+
+padding:14px 16px;
+
+
+text-decoration: none;
+
+
+}
+
+
+li a:hover:not(.active){
+
+
+background-color: teal;
+
+
+}
+
+
+.active{
+
+
+background-color:hotpink;
+    {
+    
+}
+ .info:hover{
+        background-color: chocolate;
+    }
